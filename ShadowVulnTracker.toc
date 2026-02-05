@@ -1,0 +1,7 @@
+## Interface: 11200
+## Title: ShadowVulnTracker
+## Notes: Tracks Shadow Vulnerability on Turtle WoW. SuperWow compatible.
+## Author: made by Varnek - East Oceanic Trading Co
+## SavedVariables: SVT_Settings
+
+ShadowVulnTracker.lua
